@@ -39,7 +39,6 @@ local.properties
 .recommenders
 
 ### VS Code ###
-.vscode/
 
 ### Java ###
 *.class
@@ -72,3 +71,7 @@ buildNumber.properties
 /mvnw.bat
 mvnw.cmd
 /log/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
