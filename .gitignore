@@ -71,7 +71,7 @@ buildNumber.properties
 /mvnw.bat
 mvnw.cmd
 /log/
+.gitignore
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
